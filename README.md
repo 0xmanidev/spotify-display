@@ -25,4 +25,7 @@ A simple project that displays currently playing Spotify track information.
 Start the application and view your currently playing track.
 
 ## 3D Design
-<img width="1159" height="743" alt="image" src="https://github.com/user-attachments/assets/ce10d231-2633-4953-94ed-17cd321aafc8" />
+<img width="1140" height="660" alt="Screenshot 2026-05-07 140733" src="https://github.com/user-attachments/assets/7846b2c3-2a02-4ee5-8d06-c5847dc23c5b" />
+
+---
+<img width="1021" height="648" alt="Screenshot 2026-05-07 140747" src="https://github.com/user-attachments/assets/8b5e88d9-f558-4b05-be14-725b2067677c" />
