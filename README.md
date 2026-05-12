@@ -29,3 +29,6 @@ Start the application and view your currently playing track.
 
 ---
 <img width="1021" height="648" alt="Screenshot 2026-05-07 140747" src="https://github.com/user-attachments/assets/8b5e88d9-f558-4b05-be14-725b2067677c" />
+
+## Wiring digram
+<img width="1773" height="875" alt="wiring digram" src="https://github.com/user-attachments/assets/446ed087-576b-4e28-ab64-43b7b3961f50" />
